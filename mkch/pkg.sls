@@ -7,4 +7,5 @@ mkch-packages-installed:
       - lvm2
       - netcat-openbsd
       - rsync
+      - squid
       - wget
